@@ -1,0 +1,12 @@
+---
+title: "week6"
+format: pdf
+editor: visual
+---
+
+```{r}
+install.packages("gitcreds")
+library(gitcreds)
+gitcreds_set()
+```
+

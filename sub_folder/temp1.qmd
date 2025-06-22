@@ -1,0 +1,10 @@
+---
+title: "temp1"
+format: html
+---
+
+```{r}
+#| fig.align: 'center'
+#knitr::include_graphics(#file path)
+```
+
